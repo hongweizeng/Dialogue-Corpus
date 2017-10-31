@@ -40,6 +40,9 @@ IAC 2.0: [https://nlds.soe.ucsc.edu/iac2](https://nlds.soe.ucsc.edu/iac2)
 # 2016
 
 ## 1.OpenSubtitles
+### External Knowledge: 
+***MovieLens, 电影相关的知识 （补充对话中缺失的信息）***
+
 
 [OpenSubtitles](http://opus.lingfil.uu.se/OpenSubtitles.php) - the opensubtitles.org corpus
 [data](http://opus.lingfil.uu.se/download.php?f=OpenSubtitles/en.tar.gz)
@@ -60,6 +63,9 @@ IAC 2.0: [https://nlds.soe.ucsc.edu/iac2](https://nlds.soe.ucsc.edu/iac2)
 # 2015
 
 ## 1.Ubuntu Dialog Corpus
+
+### External Knowledge: 
+***The Ubuntu Manpages***
 
 V1.0: http://dataset.cs.mcgill.ca/ubuntu-corpus-1.0/  [data](http://cs.mcgill.ca/~jpineau/datasets/ubuntu-corpus-1.0/ubuntu_dialogs.tgz)
 
