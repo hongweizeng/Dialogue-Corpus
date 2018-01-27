@@ -1,4 +1,4 @@
-## 1.OpenSubtitles
+## 1.Raw OpenSubtitles
 
 ### _**data urls:**_
 
@@ -23,10 +23,3 @@
 AlJohri/OpenSubtitles: [https://github.com/AlJohri/OpenSubtitles](https://github.com/AlJohri/OpenSubtitles)
 
 inikdom/opensubtitles-parser: [https://github.com/inikdom/opensubtitles-parser](https://github.com/inikdom/opensubtitles-parser)
-
-
-## 2.Ubuntu Dialog Corpus
-
-V1.0: http://dataset.cs.mcgill.ca/ubuntu-corpus-1.0/  [data](http://cs.mcgill.ca/~jpineau/datasets/ubuntu-corpus-1.0/ubuntu_dialogs.tgz)
-
-V2.0: https://github.com/rkadlec/ubuntu-ranking-dataset-creator
